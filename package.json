@@ -1,0 +1,29 @@
+{
+  "name": "nodepngquant",
+  "version": "1.0.0",
+  "description": "NodeJS Batch Processing for pngquant",
+  "main": "parallel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iursevla/NodePngQuant.git"
+  },
+  "keywords": [
+    "Batch",
+    "Processing",
+    "pngquant",
+    "Compressing",
+    "PNG"
+  ],
+  "author": "Rui Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iursevla/NodePngQuant/issues"
+  },
+  "homepage": "https://github.com/iursevla/NodePngQuant#readme",
+  "devDependencies": {
+    "shelljs": "^0.7.7"
+  }
+}
